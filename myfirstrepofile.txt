@@ -3,3 +3,5 @@
 This is my second line
 
 This is for the branching learning concept
+
+I am committing to branch1 and then merge to main branch
